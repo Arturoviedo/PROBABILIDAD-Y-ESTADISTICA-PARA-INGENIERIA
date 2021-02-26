@@ -7,8 +7,7 @@
 - Operaciones básicas 
 
 # Requisitos
-- Tener previamente instalados R y RStudio
-- Haber leido y comprendido el Prework
+- Tener previamente instalados R y RStudio o tener cuenta en RStudio Cloud
 
 # Desarrollo
 Se tiene una serie de códigos los cuales deberán irse corriento línea a línea, recordar que siempre se ejecuta una línea presionando **Ctrl + Enter**
